@@ -15,7 +15,7 @@ body {
 .main {
     display: flex;
     width: 300px;
-    margin: 60px auto;
+    margin: 10% auto;
     border-radius: 15px;
     background-color: hsl(0, 0%, 100%);
     align-items: center;
